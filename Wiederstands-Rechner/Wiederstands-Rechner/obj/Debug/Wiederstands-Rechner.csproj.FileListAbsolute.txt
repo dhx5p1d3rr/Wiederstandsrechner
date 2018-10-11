@@ -1,0 +1,15 @@
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\bin\Debug\Wiederstands-Rechner.exe.config
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\bin\Debug\Wiederstands-Rechner.exe
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\bin\Debug\Wiederstands-Rechner.pdb
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\Wiederstands-Rechner.csprojResolveAssemblyReference.cache
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\MainWindow.g.cs
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\App.g.cs
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\Wiederstands-Rechner_MarkupCompile.cache
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\Wiederstands-Rechner_MarkupCompile.lref
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\MainWindow.baml
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\Wiederstands-Rechner.g.resources
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\Wiederstands_Rechner.Properties.Resources.resources
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\Wiederstands-Rechner.csproj.GenerateResource.Cache
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\Wiederstands-Rechner.csproj.CoreCompileInputs.cache
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\Wiederstands-Rechner.exe
+C:\Users\dhx5p1d3rr\source\repos\Wiederstands-Rechner\Wiederstands-Rechner\obj\Debug\Wiederstands-Rechner.pdb
